@@ -1,0 +1,177 @@
+[
+    {
+        "Name": "공유",
+        "Photo": "/assets/image/gongyu.jpg",
+        "Position": "부장",
+        "Department": "개발",
+        "EmployeeID": "10001",
+        "HireDate": "2020-05-15",
+        "ContactInformation": {
+            "Email": "gongyu@example.com",
+            "Phone": "00000000"
+        },
+        "Address": {
+            "Street": "한글비석로 1",
+            "City": "서울특별시",
+            "State": "노원구"
+        },
+        "Salary": 8000000,
+        "Status": "근속",
+        "Skills": [
+            "Javascript",
+            "Spring",
+            "react",
+            "Java",
+            "Python",
+            "C",
+            "C++",
+            "MySql"
+        ],
+        "EducationBackground": {
+            "Degree": "Doctor's degree",
+            "University": "서울대학교"
+        },
+
+        "Notes": "능력이 출중하며 근면성실하고 잘생김"
+    },
+    {
+        "Name": "강동원",
+        "Photo": "/assets/image/gangdongwon.jpg",
+        "Position": "사원",
+        "Department": "개발",
+        "EmployeeID": "10001",
+        "HireDate": "2020-05-15",
+        "ContactInformation": {
+            "Email": "gangdongwon@example.com",
+            "Phone": "00000000"
+        },
+        "Address": {
+            "Street": "한글비석로 1",
+            "City": "서울특별시",
+            "State": "노원구"
+        },
+        "Salary": 8000000,
+        "Status": "근속",
+        "Skills": [
+            "Javascript",
+            "Spring",
+            "react",
+            "Java",
+            "Python",
+            "C",
+            "C++",
+            "MySql"
+        ],
+        "EducationBackground": {
+            "Degree": "Doctor's degree",
+            "University": "서울대학교"
+        },
+
+        "Notes": "능력이 출중하며 근면성실하고 잘생김"
+    },
+    {
+        "Name": "카리나",
+        "Photo": "/assets/image/karina.jpg",
+        "Position": "사원",
+        "Department": "개발",
+        "EmployeeID": "10001",
+        "HireDate": "2020-05-15",
+        "ContactInformation": {
+            "Email": "karina@example.com",
+            "Phone": "00000000"
+        },
+        "Address": {
+            "Street": "한글비석로 1",
+            "City": "서울특별시",
+            "State": "노원구"
+        },
+        "Salary": 8000000,
+        "Status": "근속",
+        "Skills": [
+            "Javascript",
+            "Spring",
+            "react",
+            "Java",
+            "Python",
+            "C",
+            "C++",
+            "MySql"
+        ],
+        "EducationBackground": {
+            "Degree": "Doctor's degree",
+            "University": "서울대학교"
+        },
+
+        "Notes": "능력이 출중하며 근면성실하고 잘생김"
+    },
+    {
+        "Name": "소지섭",
+        "Photo": "/assets/image/sojisub.jpg",
+        "Position": "사원",
+        "Department": "개발",
+        "EmployeeID": "10001",
+        "HireDate": "2020-05-15",
+        "ContactInformation": {
+            "Email": "sojosub@example.com",
+            "Phone": "00000000"
+        },
+        "Address": {
+            "Street": "한글비석로 1",
+            "City": "서울특별시",
+            "State": "노원구"
+        },
+        "Salary": 8000000,
+        "Status": "근속",
+        "Skills": [
+            "Javascript",
+            "Spring",
+            "react",
+            "Java",
+            "Python",
+            "C",
+            "C++",
+            "MySql"
+        ],
+        "EducationBackground": {
+            "Degree": "Doctor's degree",
+            "University": "서울대학교"
+        },
+
+        "Notes": "능력이 출중하며 근면성실하고 잘생김"
+    },
+    {
+        "Name": "안유진",
+        "Photo": "/assets/image/anyujin.jpeg",
+        "Position": "사원",
+        "Department": "개발",
+        "EmployeeID": "10001",
+        "HireDate": "2020-05-15",
+        "ContactInformation": {
+            "Email": "anyujin@example.com",
+            "Phone": "00000000"
+        },
+        "Address": {
+            "Street": "한글비석로 1",
+            "City": "서울특별시",
+            "State": "노원구"
+        },
+        "Salary": 8000000,
+        "Status": "근속",
+        "Skills": [
+            "Javascript",
+            "Spring",
+            "react",
+            "Java",
+            "Python",
+            "C",
+            "C++",
+            "MySql"
+        ],
+        "EducationBackground": {
+            "Degree": "Doctor's degree",
+            "University": "서울대학교"
+        },
+
+        "Notes": "능력이 출중하며 근면성실하고 잘생김"
+    }
+]
